@@ -37,7 +37,6 @@ public class Main {
         // Задание 6
         var boxerWeight1 = 78.2;
         var boxerWeight2 = 82.7;
-       // var differenceWeight = boxerWeight2 % boxerWeight1;
         System.out.println("Задание 6");
         System.out.println("Общая масса двух бойцов = " + (boxerWeight1 + boxerWeight2) + " кг.");
         System.out.println("Разница между массами бойцов = " + (boxerWeight2 - boxerWeight1) + " кг.");
